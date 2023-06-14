@@ -1,0 +1,62 @@
+<style>
+.kaede_more01 {
+	width: 100%;
+	padding: 5px;
+	background: #eee;
+	box-sizing: border-box;
+}
+
+.kaede_more01 p {
+	background: #f8b530;
+	text-align: center;
+	line-height: 2 !important;
+	position: relative;
+	font-weight: bold;
+	margin-top: 10px !important;
+	font-size: 20px;
+	border-radius: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: sans-serif;
+}
+
+.kaede_more01 p::after {
+	content: '';
+	position: absolute;
+	border: 10px solid transparent;
+	border-top-color: #f8b530;
+	top: 100%;
+	left: 50%;
+	margin-left: -10px;
+}
+
+.kaede_more01 table {
+	width: 100%;
+	margin-top: 10px;
+	border-spacing: 10px;
+}
+
+.kaede_more01 table a {
+	text-decoration: none;
+}
+
+.kaede_more01 table a img {
+	display: block;
+	border-radius: 10px;
+}
+
+.kaede_more01 table a::after {
+	content: ' >> 商品を見る <<';
+	display: block;
+	text-align: center;
+	background: #cc0000;
+	color: #fff;
+	margin-top: 10px;
+	border-radius: 5px;
+	line-height: 1.5;
+	padding: 2px 5px 3px;
+	box-sizing: border-box;
+	font-size: 0.8rem;
+}
+</style>
