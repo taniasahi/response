@@ -1,3 +1,6 @@
+<!doctype html>
+<html>
+<head>
 <style>
 .kaede_more01 {
 	width: 100%;
@@ -60,3 +63,37 @@
 	font-size: 0.8rem;
 }
 </style>
+</head>
+
+<body>
+	<div class="kaede_more01">
+<p>以下の商品もおすすめ</p>
+<table>
+<tbody><tr>
+<td width="23%">
+<a href="https://item.rakuten.co.jp/kyodoled/10000873/" target="_blank">
+<img src="https://image.rakuten.co.jp/kyodoled/cabinet/04588010/imgrc0074945065.jpg" width="100%">
+</a>
+</td>
+<td width="23%">
+<a href="https://item.rakuten.co.jp/kyodoled/10001501/" target="_blank">
+<img src="https://image.rakuten.co.jp/kyodoled/cabinet/04588010/imgrc0074468896.jpg" width="100%">
+</a>
+</td>
+<td width="23%">
+<a href="https://item.rakuten.co.jp/kyodoled/10001589/" target="_blank">
+<img src="https://image.rakuten.co.jp/kyodoled/cabinet/04588010/imgrc0075509544.jpg" width="100%">
+</a>
+</td>
+	<td width="23%">
+<a href="https://item.rakuten.co.jp/kyodoled/10001589/" target="_blank">
+<img src="https://image.rakuten.co.jp/kyodoled/cabinet/04588010/imgrc0075509544.jpg" width="100%">
+</a>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+</body>
+</html>
